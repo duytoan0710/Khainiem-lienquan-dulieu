@@ -1,0 +1,5 @@
+{
+  "name": "ITBA CRUD Simulator",
+  "description": "An educational tool to visualize Entities and CRUD operations in IT Business Analysis.",
+  "requestFramePermissions": []
+}
